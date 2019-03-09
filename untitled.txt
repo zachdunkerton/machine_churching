@@ -1,0 +1,7 @@
+0. Speech to text (well formatted)
+1. Word cloud of each sermon
+2. Summary of each sermon
+3. Breakdown of passages referenced (visual with reference to the Bible, show the deserts)
+4. Analysis of most common topics (with reference to some greater list of topics)
+5. 
+
